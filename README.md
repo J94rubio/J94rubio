@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jose Rubio 👋
 
-<!--
-**J94rubio/J94rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer (Python + React) with 3+ years of experience building scalable applications and automating data workflows.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python (Flask, FastAPI)
+- React, JavaScript
+- PostgreSQL, MySQL
+- Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- Build fullstack web applications
+- Design and develop REST APIs
+- Automate data processing pipelines
+- Work with large datasets and analytics
+
+## 📌 Featured Projects
+- Fullstack App (React + Flask)
+- AI-powered Survey Automation (Python + OpenAI API)
+- Data Pipeline & Web Scraping (Python + Power BI)
+
+## 🌎 Open to Remote Opportunities
+Currently open to remote roles where I can contribute to impactful products and scalable systems.
+
+## 📫 Contact
+- Email: jb.rubio@outlook.com
+- LinkedIn: www.linkedin.com/in/josé-fernando-rubio-morales
