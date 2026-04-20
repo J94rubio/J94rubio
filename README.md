@@ -1,5 +1,11 @@
 # Hi, I'm Jose Rubio 👋
 
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+
 Fullstack Developer (Python + React) with 3+ years of experience building scalable applications and automating data workflows.
 
 ## 🚀 Tech Stack
